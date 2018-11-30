@@ -1,2 +1,2 @@
-# SpringBoot_FreeMaker_Demo
+# SpringBoot_FreeMarker_Demo
 springboot集成FreeMarker的一个小Demo
